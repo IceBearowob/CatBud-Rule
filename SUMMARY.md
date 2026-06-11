@@ -1,9 +1,11 @@
 # Table of contents
 
-## 原則
+* [Untitled](README.md)
 
-* [詳細規章設計總則](README.md)
-* [檢舉與懲處原則](yuan-ze/jian-ju-yu-cheng-chu-yuan-ze.md)
+## 原則 <a href="#principles" id="principles"></a>
+
+* [詳細規章設計總則](principles/general-principles.md)
+* [檢舉與懲處原則](principles/reporting-and-punishment-principles.md)
 
 ## 詳細規章
 
