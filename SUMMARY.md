@@ -9,13 +9,14 @@
 
 ## 詳細規章 <a href="#detailed-rules" id="detailed-rules"></a>
 
-* [懲處標準](detailed-rules/cheng-chu-biao-zhun/README.md)
-  * [洗頻](detailed-rules/cheng-chu-biao-zhun/xi-bin.md)
-  * [腳本](detailed-rules/cheng-chu-biao-zhun/jiao-ben.md)
-* [貓芽公平交易法](detailed-rules/mao-ya-gong-ping-jiao-yi-fa.md)
-* [公共傳點條例](detailed-rules/gong-gong-chuan-dian-tiao-li.md)
+* [懲處標準](detailed-rules/懲處標準.md)
+  * [洗頻](definition/洗頻.md)
+  * [腳本](definition/腳本.md)
+  * [空降戰域遊玩規範](definition/空降戰域遊玩規範.md)
+* [貓芽公平交易法](detailed-rules/貓芽公平交易法.md)
+* [公共傳點條例](detailed-rules/公共傳點條例.md)
 
 ## 檢舉 <a href="#report" id="report"></a>
 
-* [檢舉須知](report/jian-ju-xu-zhi/README.md)
-  * [損害賠償](report/jian-ju-xu-zhi/sun-hai-pei-chang.md)
+* [檢舉須知](report/檢舉須知.md)
+  * [損害賠償](report/損害賠償.md)
