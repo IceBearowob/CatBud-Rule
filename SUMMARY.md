@@ -6,7 +6,7 @@
 
 ## 原則 <a href="#principles" id="principles"></a>
 
-* [詳細規章設計總則](principles/詳細規章設計原則.md)
+* [詳細規章設計原則](principles/詳細規章設計原則.md)
 * [懲處原則](principles/懲處原則.md)
 
 ## 詳細規章 <a href="#detailed-rules" id="detailed-rules"></a>
