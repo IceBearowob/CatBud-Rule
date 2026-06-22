@@ -1,5 +1,6 @@
 # Table of contents
 
+* [貓芽遊戲規範](rule.md)
 * [貓芽詳細規章](README.md)
 * [詳細規章介紹](introduction.md)
 * [詳細規章小公告區](announcement.md)
